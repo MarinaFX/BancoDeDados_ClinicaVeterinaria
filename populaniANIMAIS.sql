@@ -1,7 +1,7 @@
 --Populando a tabela ANIMAIS
 
 INSERT INTO ANIMAIS (especie, raca, nome, ano_nascimento, dono_cpf, cod_paciente)
-VALUES ('Cachorro', 'Vira-lata', 'Pudim', , 03899869057, 1901);--Arthur
+VALUES ('Cachorro', 'Vira-lata', 'Pudim', 2018 , 03899869057, 1901);--Arthur
 
 INSERT INTO ANIMAIS (especie, raca, nome, ano_nascimento, dono_cpf, cod_paciente)
 VALUES ('Cachorro', 'Vira-lata', 'Fido', 2010, 38703854921, 1902);--Mari
