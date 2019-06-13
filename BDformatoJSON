@@ -1,0 +1,258 @@
+{
+  "Clinica Veterinária": {
+    "Animais": [
+      {
+        "Espécie": "Cachorro",
+        "Raça": "Vira-lata",
+        "Nome": "Pudim",
+        "Ano_nascimento": "2018",
+        "dono_cpf": "03899869057",
+        "cod_paciente": "1901"
+      },
+      {
+        "Espécie": "Cachorro",
+        "Raça": "Vira-lata",
+        "Nome": "Fido",
+        "AnoNascimento": "2010",
+        "dono_cpf": "38703854921",
+        "cod_paciente": "1902"
+      },
+      {
+        "Espécie": "Gato",
+        "Raça": "Bombaim",
+        "Nome": "Alba",
+        "AnoNascimento": "2015",
+        "dono_cpf": "44966018020",
+        "cod_paciente": "1903"
+      },
+      {
+        "Espécie": "Cachorro",
+        "Raça": "Airedale terrier",
+        "Nome": "Doc",
+        "AnoNascimento": "2006",
+        "dono_cpf": "03899869057",
+        "cod_paciente": "1904"
+      },
+      {
+        "Espécie": "Gato",
+        "Raça": "Siamês",
+        "Nome": "Agni",
+        "AnoNascimento": "2009",
+        "dono_cpf": "23144824730",
+        "cod_paciente": "1905"
+      },
+      {
+        "Espécie": "Ave",
+        "Raça": "Coruja-das-neves",
+        "Nome": "Hedwig",
+        "AnoNascimento": "2015",
+        "dono_cpf": "38703854921",
+        "cod_paciente": "1906"
+      },
+      {
+        "Espécie": "Cachorro",
+        "Raça": "Vira-lata",
+        "Nome": "Yoda",
+        "AnoNascimento": "2019",
+        "dono_cpf": "23144824730",
+        "cod_paciente": "1907"
+      },
+      {
+        "Espécie": "Ave",
+        "Raça": "Papagaio",
+        "Nome": "Frodo",
+        "AnoNascimento": "2016",
+        "dono_cpf": "68410315794",
+        "cod_paciente": "1908"
+      },
+      {
+        "Espécie": "Peixe",
+        "Raça": "peixe-palhaço",
+        "Nome": "Dobby",
+        "AnoNascimento": "2013",
+        "dono_cpf": "35795140682",
+        "cod_paciente": "1910"
+      },
+      {
+        "Espécie": "Cachorro",
+        "Raça": "Beagle",
+        "Nome": "Fidel",
+        "AnoNascimento": "2000",
+        "dono_cpf": "15849236717",
+        "cod_paciente": "1911"
+      },
+      {
+        "Espécie": "Gato",
+        "Raça": "Siberiano",
+        "Nome": "Capitu",
+        "AnoNascimento": "2012",
+        "dono_cpf": "88955063410",
+        "cod_paciente": "1912"
+      },
+      {
+        "Espécie": "Cachorro",
+        "Raça": "Pastor-de-Shetland",
+        "Nome": "Ellie",
+        "AnoNascimento": "2013",
+        "dono_cpf": "03899869057",
+        "cod_paciente": "1913"
+      },
+      {
+        "Espécie": "Gato",
+        "Raça": "Norueguês da Floresta",
+        "Nome": "Izzie",
+        "AnoNascimento": "2006",
+        "dono_cpf": "44966018020",
+        "cod_paciente": "1914"
+      },
+      {
+        "Espécie": "Cachorro",
+        "Raça": "Basset Hound",
+        "Nome": "Lola",
+        "AnoNascimento": "2018",
+        "dono_cpf": "38703854921",
+        "cod_paciente": "1915"
+      },
+      {
+        "Espécie": "Cachorro",
+        "Raça": "Husky Siberiano",
+        "Nome": "Niko",
+        "AnoNascimento": "2017",
+        "dono_cpf": "38755102937",
+        "cod_paciente": "1916"
+      },
+      {
+        "Espécie": "Roedor",
+        "Raça": "Hamster anão russo",
+        "Nome": "Zeus",
+        "AnoNascimento": "2018",
+        "dono_cpf": "56481397258",
+        "cod_paciente": "1917"
+      }
+    ],
+    "Veterinarios": [
+      {
+        "CRV": "110",
+        "Nome": "Meredith Grey",
+        "Email": "mergrey@gmail.com",
+        "Plantonista": "N"
+      },
+      {
+        "CRV": "115",
+        "Nome": "Cristina Yang",
+        "Email": "yangcontato@outlook.com",
+        "Plantonista": "N"
+      },
+      {
+        "CRV": "120",
+        "Nome": "Derek Shepherd",
+        "Email": "sheppdk@bol.com.br",
+        "Plantonista": "N"
+      },
+      {
+        "CRV": "125",
+        "Nome": "Helena Rodenbusch",
+        "Email": "helena.contato@hotmail.com",
+        "Plantonista": "S"
+      },
+      {
+        "CRV": "130",
+        "Nome": "Bernardo Rangel",
+        "Email": "rangel2145@yahoo.com.br",
+        "Plantonista": "S"
+      },
+      {
+        "CRV": "135",
+        "Nome": "Cássio Fernandes",
+        "Email": "cassfer@gmail.com",
+        "Plantonista": "S"
+      },
+      {
+        "CRV": "140",
+        "Nome": "Letícia Staffa",
+        "Email": "lettystaffa@sicparvismagna.com.br",
+        "Plantonista": "N"
+      },
+      {
+        "CRV": "145",
+        "Nome": "Rogério Aguas",
+        "Email": "rogeriopf@gmail.com",
+        "Plantonista": "N"
+      },
+      {
+        "CRV": "150",
+        "Nome": "Paolla Carrossel",
+        "Email": "caropaolla2514@outlook.com",
+        "Plantonista": "S"
+      },
+      {
+        "CRV": "155",
+        "Nome": "Fernando Guevara",
+        "Email": "guevarafer@gmail.com",
+        "Plantonista": "S"
+      }
+    ],
+    "TIPOSEXAMES": [
+      {
+        "Cod_exame": "110",
+        "Tipo": "hemograma",
+        "Descrição": "Indicar processos inflamatórios e infecciosos, anemias, presença de hemoparasitas, além de evidenciar alterações plaquetárias e sugerir problemas de medula óssea (de produção de células sanguíneas).",
+        "Valor_tabelado": "110.99"
+      },
+      {
+        "Cod_exame": "111",
+        "Tipo": "Exame de urina",
+        "Descrição": "Auxiliar no diagnóstico de diabetes e de outras doenças endócrinas, indicar a presença de infecção urinária, além de fornecer informações importantes em relação ao funcionamento do rim do animal.",
+        "Valor_tabelado": "225.45"
+      },
+      {
+        "Cod_exame": "112",
+        "Tipo": "Exame coproparasitológico",
+        "Descrição": "indicar a presença de vermes e protozoários causadores de doenças intestinais, como giardíase e isosporose.",
+        "Valor_tabelado": "115.94"
+      },
+      {
+        "Cod_exame": "113",
+        "Tipo": "Função renal",
+        "Descrição": "'Auxiliar na identificação de qualquer alteração na função dos rins.",
+        "Valor_tabelado": "95.00"
+      },
+      {
+        "Cod_exame": "114",
+        "Tipo": "Função hepática",
+        "Descrição": "Diagnosticar alterações e possíveis doenças no fígado.",
+        "Valor_tabelado": "135.60"
+      },
+      {
+        "Cod_exame": "115",
+        "Tipo": "Glicemia de jejum",
+        "Descrição": "Indicar os níveis de glicose no sangue, contribuindo para o diagnóstico precoce dos quadros de diabetes.",
+        "Valor_tabelado": "70.00"
+      },
+      {
+        "Cod_exame": "116",
+        "Tipo": "Ultrassonografia abdominal",
+        "Descrição": "Como exame de rotina, serve principalmente para investigar alterações nos órgãos e glândulas abdominais, como pâncreas, fígado, rins, bexiga, adrenais e intestino; essas alterações podem ser de várias origens, como neoplásica (câncer), inflamatória, infecciosa etc.",
+        "Valor_tabelado": "150.60"
+      },
+      {
+        "Cod_exame": "117",
+        "Tipo": "ECG",
+        "Descrição": "Avaliar a condução elétrica do coração, apontando a possível presença de arritmias e sugerindo alterações morfológicas de câmaras cardíacas, cujo diagnóstico deve ser firmado pelo ecocardiograma.",
+        "Valor_tabelado": "174.40"
+      },
+      {
+        "Cod_exame": "118",
+        "Tipo": "FIV e FeLV",
+        "Descrição": "Diagnosticar a AIDS (FIV) e a leucemia (FeLV) felinas",
+        "Valor_tabelado": "335.00"
+      },
+      {
+        "Cod_exame": "119",
+        "Tipo": "Exame oftalmológico",
+        "Descrição": "agrupa uma série de revisões que verificam se existem problemas nos olhos, ou doenças que começam a se manifestar. Basicamente, verifica-se a visãoo e o estado dos órgãos oculares.",
+        "Valor_tabelado": "80.80"
+      }
+    ]
+  }
+}
