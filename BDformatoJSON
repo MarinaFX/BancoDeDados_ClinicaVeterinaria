@@ -1,5 +1,137 @@
 {
   "Clinica Veterinária": {
+    "Clientes" : [
+      {
+        "cpf" : "03899869057",
+        "Nome" : "Arthur",
+        "Sobrenome" : "Maciel Gomes",
+        "E-mail" : "arthur.maciel@edu.pucrs.br",
+        "Data_Nascimento" : {
+          "Dia" : "16",
+          "Mês" : "05",
+          "Ano" : "2001"
+        },
+        "Convenio" : "S",
+        "Cad_ativo" : "S"
+      },
+      {
+        "cpf" : "38703854921",
+        "Nome" : "Marina",
+        "Sobrenome" : "Moreira",
+        "E-mail" : "marina.moreira@edu.pucrs.br",
+        "Data_Nascimento" : {
+          "Dia" : "20",
+          "Mês" : "07",
+          "Ano" : "1998"
+        },
+        "Convenio" : "N",
+        "Cad_ativo" : "N"
+      },
+      {
+        "cpf" : "44966018020",
+        "Nome" : "Thaís",
+        "Sobrenome" : "Fernandes",
+        "E-mail" : "thais.fernandes@edu.pucrs.br",
+        "Data_Nascimento" : {
+          "Dia" : "11",
+          "Mês" : "12",
+          "Ano" : "1998"
+        },
+        "Convenio" : "N",
+        "Cad_ativo" : "S"
+      },
+      {
+        "cpf" : "15849236717",
+        "Nome" : "João",
+        "Sobrenome" : "das Neves",
+        "E-mail" : "joaostark@outlook.com",
+        "Data_Nascimento" : {
+          "Dia" : "25",
+          "Mês" : "12",
+          "Ano" : "1919"
+        },
+        "Convenio" : "S",
+        "Cad_ativo" : "N"
+      },
+      {
+        "cpf" : "56481397258",
+        "Nome" : "Daiane",
+        "Sobrenome" : "Targânia",
+        "E-mail" : "daianetarg@gmail.com",
+        "Data_Nascimento" : {
+          "Dia" : "16",
+          "Mês" : "05",
+          "Ano" : "2001"
+        },
+        "Convenio" : "S",
+        "Cad_ativo" : "S"
+      },
+      {
+        "cpf" : "38755102937",
+        "Nome" : "Gabriel",
+        "Sobrenome" : "Moura",
+        "E-mail" : "moura.gabriel@gmail.com",
+        "Data_Nascimento" : {
+          "Dia" : "28",
+          "Mês" : "08",
+          "Ano" : "2000"
+        },
+        "Convenio" : "S",
+        "Cad_ativo" : "N"
+      },
+      {
+        "cpf" : "88955063410",
+        "Nome" : "Alana",
+        "Sobrenome" : "Fernandes",
+        "E-mail" : "alaninha.fernandes@gmail.com",
+        "Data_Nascimento" : {
+          "Dia" : "19",
+          "Mês" : "02",
+          "Ano" : "1975"
+        },
+        "Convenio" : "N",
+        "Cad_ativo" : "S"
+      },
+      {
+        "cpf" : "35795140682",
+        "Nome" : "Camilla",
+        "Sobrenome" : "Oliveira",
+        "E-mail" : "camilla.oli98@hotmail.com",
+        "Data_Nascimento" : {
+          "Dia" : "21",
+          "Mês" : "07",
+          "Ano" : "1998"
+        },
+        "Convenio" : "S",
+        "Cad_ativo" : "S"
+      },
+      {
+        "cpf" : "68410315794",
+        "Nome" : "Giovanni",
+        "Sobrenome" : "Madalozzo",
+        "E-mail" : "madgio@yahoo.com.br",
+        "Data_Nascimento" : {
+          "Dia" : "11",
+          "Mês" : "05",
+          "Ano" : "1996"
+        },
+        "Convenio" : "N",
+        "Cad_ativo" : "N"
+      },
+      {
+        "cpf" : "23144824730",
+        "Nome" : "Carlo",
+        "Sobrenome" : "Da Vinci",
+        "E-mail" : "carlovintinho@terra.com",
+        "Data_Nascimento" : {
+          "Dia" : "15",
+          "Mês" : "02",
+          "Ano" : "1997"
+        },
+        "Convenio" : "N",
+        "Cad_ativo" : "N"
+      }
+      ],
     "Animais": [
       {
         "Espécie": "Cachorro",
@@ -253,6 +385,11 @@
         "Descrição": "agrupa uma série de revisões que verificam se existem problemas nos olhos, ou doenças que começam a se manifestar. Basicamente, verifica-se a visãoo e o estado dos órgãos oculares.",
         "Valor_tabelado": "80.80"
       }
-    ]
+    ],
+    "Atendimentos" : [
+      {
+        
+      }
+      ]
   }
 }
