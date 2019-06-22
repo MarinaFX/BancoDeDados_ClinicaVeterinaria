@@ -386,10 +386,228 @@
         "Valor_tabelado": "80.80"
       }
     ],
-    "Atendimentos" : [
+    "Atendimentos": [
       {
-        
+        "Cod_Atendimento": "10000",
+        "Data": {
+          "dia": "19",
+          "mes": "01",
+          "ano": "2019"
+        },
+        "Hora": {
+          "hora": "21",
+          "minuto": "36",
+          "segundo": "28"
+        },
+        "Diagnostico": "Saudável",
+        "CRV_Atendente": "110",
+        "Cod_Paciente": "1901",
+        "Exame": "0"
+      },
+      {
+        "Cod_Atendimento": "11000",
+        "Data": {
+          "dia": "25",
+          "mes": "01",
+          "ano": "2019"
+        },
+        "Hora": {
+          "hora": "14",
+          "minuto": "45",
+          "segundo": "28"
+        },
+        "Diagnostico": "Saudável, somente revisão",
+        "CRV_Atendente": "115",
+        "Cod_Paciente": "1902",
+        "Exame": "1"
+      },
+      {
+        "Cod_Atendimento": "12000",
+        "Data": {
+          "dia": "02",
+          "mes": "02",
+          "ano": "2019"
+        },
+        "Hora": {
+          "hora": "15",
+          "minuto": "10",
+          "segundo": "28"
+        },
+        "Diagnostico": "Infecção urinária e não foi encontrado nenhum parasita.",
+        "CRV_Atendente": "120",
+        "Cod_Paciente": "1903",
+        "Exame": "2"
+      },
+      {
+        "Cod_Atendimento": "13000",
+        "Data": {
+          "dia": "14",
+          "mes": "02",
+          "ano": "2019"
+        },
+        "Hora": {
+          "hora": "09",
+          "minuto": "30",
+          "segundo": "35"
+        },
+        "Diagnostico": "Saudável",
+        "CRV_Atendente": "125",
+        "Cod_Paciente": "1904",
+        "Exame": "0"
+      },
+      {
+        "Cod_Atendimento": "14000",
+        "Data": {
+          "dia": "22",
+          "mes": "02",
+          "ano": "2019"
+        },
+        "Hora": {
+          "hora": "18",
+          "minuto": "30",
+          "segundo": "35"
+        },
+        "Diagnostico": "Pedra nos rins.",
+        "CRV_Atendente": "130",
+        "Cod_Paciente": "1905",
+        "Exame": "1"
+      },
+      {
+        "Cod_Atendimento": "15000",
+        "Data": {
+          "dia": "01",
+          "mes": "03",
+          "ano": "2019"
+        },
+        "Hora": {
+          "hora": "10",
+          "minuto": "22",
+          "segundo": "14"
+        },
+        "Diagnostico": "Saudável",
+        "CRV_Atendente": "135",
+        "Cod_Paciente": "1906",
+        "Exame": "1"
+      },
+      {
+        "Cod_Atendimento": "16000",
+        "Data": {
+          "dia": "03",
+          "mes": "03",
+          "ano": "2019"
+        },
+        "Hora": {
+          "hora": "14",
+          "minuto": "22",
+          "segundo": "55"
+        },
+        "Diagnostico": "Saudável",
+        "CRV_Atendente": "140",
+        "Cod_Paciente": "1907",
+        "Exame": "0"
+      },
+      {
+        "Cod_Atendimento": "17000",
+        "Data": {
+          "dia": "12",
+          "mes": "03",
+          "ano": "2019"
+        },
+        "Hora": {
+          "hora": "17",
+          "minuto": "01",
+          "segundo": "00"
+        },
+        "Diagnostico": "Diabetes",
+        "CRV_Atendente": "145",
+        "Cod_Paciente": "1908",
+        "Exame": "1"
+      },
+      {
+        "Cod_Atendimento": "18000",
+        "Data": {
+          "dia": "24",
+          "mes": "03",
+          "ano": "2019"
+        },
+        "Hora": {
+          "hora": "08",
+          "minuto": "28",
+          "segundo": "59"
+        },
+        "Diagnostico": "Tumor benígno",
+        "CRV_Atendente": "150",
+        "Cod_Paciente": "1910",
+        "Exame": "1"
+      },
+      {
+        "Cod_Atendimento": "19000",
+        "Data": {
+          "dia": "30",
+          "mes": "03",
+          "ano": "2019"
+        },
+        "Hora": {
+          "hora": "04",
+          "minuto": "00",
+          "segundo": "35"
+        },
+        "Diagnostico": "Arritmia cardíaca",
+        "CRV_Atendente": "155",
+        "Cod_Paciente": "1911",
+        "Exame": "1"
+      },
+      {
+        "Cod_Atendimento": "20000",
+        "Data": {
+          "dia": "11",
+          "mes": "04",
+          "ano": "2019"
+        },
+        "Hora": {
+          "hora": "07",
+          "minuto": "30",
+          "segundo": "00"
+        },
+        "Diagnostico": "Sem FIV e FELV, porém catarata no olho esquerdo",
+        "CRV_Atendente": "110",
+        "Cod_Paciente": "1912",
+        "Exame": "3"
+      },
+      {
+        "Cod_Atendimento": "21000",
+        "Data": {
+          "dia": "20",
+          "mes": "04",
+          "ano": "2019"
+        },
+        "Hora": {
+          "hora": "12",
+          "minuto": "00",
+          "segundo": "00"
+        },
+        "Diagnostico": "Saudável",
+        "CRV_Atendente": "115",
+        "Cod_Paciente": "1913",
+        "Exame": "0"
+      },
+      {
+        "Cod_Atendimento": "22000",
+        "Data": {
+          "dia": "23",
+          "mes": "05",
+          "ano": "2019"
+        },
+        "Hora": {
+          "hora": "19",
+          "minuto": "11",
+          "segundo": "00"
+        },
+        "Diagnostico": "Saudável",
+        "CRV_Atendente": "120",
+        "Cod_Paciente": "1914",
+        "Exame": "0"
       }
-      ]
+    ]
   }
 }
